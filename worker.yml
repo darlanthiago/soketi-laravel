@@ -16,4 +16,3 @@ apps:
     restart_delay: 3000
     error_file: ./storage/logs/horizon.error.log
     out_file: ./storage/logs/horizon.out.log
-
