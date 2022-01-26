@@ -183,7 +183,6 @@ return [
                 'queue' => ['default'],
                 'balance' => 'auto',
                 'maxProcesses' => 1,
-                'memory' => 128,
                 'tries' => 1,
                 'nice' => 0,
             ],
